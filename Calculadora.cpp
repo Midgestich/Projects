@@ -3,6 +3,11 @@
 #include<math.h>
 main()
 {
+
+	void nada(){
+	return 0;
+	}
+	nada;
 	
  int l1,l2,op,s=0;
  int ar, pe;
@@ -66,6 +71,7 @@ main()
   }
   case 5:
    s=1;
+		 
    
  }
 }
