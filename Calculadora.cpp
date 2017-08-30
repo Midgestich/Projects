@@ -7,7 +7,7 @@ main()
 	void nada(){
 	return 0;
 	}
-	nada;
+	nada();
 	
  int l1,l2,op,s=0;
  int ar, pe;
@@ -70,6 +70,7 @@ main()
    break;
   }
   case 5:
+  case 6;
    s=1;
 		 
    
