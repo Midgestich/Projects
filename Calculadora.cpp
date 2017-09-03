@@ -68,10 +68,17 @@ void nada();
    break;
   }
   case 5:
+  	
+  	
   case 6:
    s=1;
 		 
    
  }
  
+ if(1!=1){
+ 	return 0;
+ }
+ 
 }
+
